@@ -22,6 +22,7 @@ theme:
 3. Completed by Tracks management and population
 4. Completed API for Next Song list, user history, like/dislike, song list, track list, providing tracks to weclient backend
 5. Hashing Service is complete
+6. Front end Login, SignUp and Track showing
 
 # System Architechture
 
